@@ -20,3 +20,4 @@ Upload multiple style images if you want different styles for different objects.
 If you want the same style applied to all objects without affecting the background, you only need a single style image.
 
 Note: In the code, the uploaded images are referenced by their file extensions (e.g., .jpg or .png). Make sure to update these references to match the actual extensions of the images you upload.
+in addition we uploaded couple of photos and styles for you to try.
