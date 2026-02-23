@@ -5,6 +5,8 @@ To run the code:
 
 Follow the instructions directly in the code.
 
+If you working in colab enviorment please upload the next file to the content file,else update then file paths on the code to run it.
+
 Upload the following files:
 
 requirements.txt (provided)
